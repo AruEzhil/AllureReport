@@ -1,0 +1,2 @@
+# AllureReport
+An Report project
