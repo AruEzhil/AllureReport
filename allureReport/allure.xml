@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AllureSuitre">
+<test name="AllureTest ">
+<classes>
+<class name="alluretestcase.Appointmenttestcase">
+</class>
+</classes>
+</test>
+</suite>

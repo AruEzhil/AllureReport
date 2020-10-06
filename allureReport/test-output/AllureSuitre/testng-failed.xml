@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [AllureSuitre]">
+  <test name="AllureTest (failed)">
+    <classes>
+      <class name="alluretestcase.Appointmenttestcase">
+        <methods>
+          <include name="launchbrowser"/>
+          <include name="table"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- alluretestcase.Appointmenttestcase -->
+    </classes>
+  </test> <!-- AllureTest (failed) -->
+</suite> <!-- Failed suite [AllureSuitre] -->
