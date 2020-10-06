@@ -73,7 +73,7 @@ public class Appointmenttestcase extends Commonfunction {
 		System.out.println("text is="+actual);
 		String expected="Dermatology Details";
 		Assert.assertEquals(actual, expected);
-				
+			//finally	
 		
 	
 	
